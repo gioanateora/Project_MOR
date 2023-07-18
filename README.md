@@ -14,4 +14,9 @@ SOFTWARE REVISION DATE:
 
  SOFTWARE LANGUAGE:
 
-      Jupyter
+      Python
+
+============================================================================
+SOFTWARE
+============================================================================
+This software provides the code to solve with a Reduced Order Model approach and
