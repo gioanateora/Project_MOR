@@ -31,17 +31,10 @@ PACKAGE
 
        The directory contains the following files
        
-       README.txt                         : this file
+       MOR_ML_Project.pdf                 : manuscript of the project
        Project_PINN_vs_Greedy.ipynb       : the main file, implementing the ROM
                                             and the PINN approaches and the 
                                             comparison w.r.t. the FEM
-       data.csv                           : dataset of the parametric values 
-                                            selected for the training and the test
-                                            phases
-       mesh001.csv                        : mesh needed to be imported in 
-                                            'Project_PINN_vs_Greedy.ipynb'in order 
-                                            to visualize the solution
-
 
 
 HOW TO USE
