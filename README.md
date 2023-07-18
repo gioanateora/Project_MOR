@@ -1,7 +1,7 @@
 # PINNs vs Greedy in Reduced Basis Method for parametric Advection-Diffusion problem
 
 This software provides all the functions needed to compute approximate
-solutions to a parametric advection-diffusion problem using the Physic
+solutions to a parametric advection-diffusion problem using the Physics
 Informed Neural Network (PINN) and the Reduced Order Model (ROM) via the
 greedy algorithm. The code to compute the online accuracy and speed-up with 
 respect to Finite Element Methods (FEM) is provided.
